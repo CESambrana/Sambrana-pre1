@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(87, 84, 245, 0.548);
+}
+.carrito {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 50% 50%;
+}
+
+.lista {
+  display: grid;
+  place-items: end;
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+}
+li {
+  font-size: 20px;
+}
