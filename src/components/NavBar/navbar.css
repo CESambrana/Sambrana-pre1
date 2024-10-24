@@ -14,6 +14,13 @@
   place-items: end;
   margin-bottom: 20px;
 }
+
+.lista button {
+  font-size: 18px;
+  background-color: rgba(87, 84, 245, 0.548);
+  padding: 5px;
+  border: none;
+}
 ul {
   list-style: none;
 }

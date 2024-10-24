@@ -12,8 +12,6 @@ const NavBar = () => {
 
       <ItemList item={"Monitores"} />
       <ItemList item={"Auriculares"} />
-      <ItemList item={"Teclados"} />
-      <ItemList item={"Mouse"} />
 
       <Cart />
     </nav>

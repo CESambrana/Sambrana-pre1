@@ -1,9 +1,9 @@
+import ItemsList from "../itemLists/ItemsList";
+
 const itemList = ({ item }) => {
   return (
     <div className="lista">
-      <ul>
-        <li>{item}</li>
-      </ul>
+      <button>{item}</button>
     </div>
   );
 };
